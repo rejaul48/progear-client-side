@@ -62,7 +62,7 @@ Step-by-step instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-https://github.com/programming-hero-web-course2/b10-a10-client-side-rejaul48
+https://github.com/rejaul48/progear-client-side.git
 
 # Navigate to the project directory
 cd your_repository
