@@ -35,6 +35,33 @@ Engaging features like Lottie animations enhance the visual appeal, while React 
 🔵 Firebase for Authentication. <br>
 🔵 MongoDB for Data Management <br>
 
+## 📦 NPM Packages Used
+
+This project uses the following NPM packages:
+
+### **Core Dependencies**
+- **Firebase** (`^11.0.2`) – Provides backend services like authentication and real-time database  
+- **Lottie React** (`^2.4.0`) – Library for rendering animations in React apps  
+- **React** (`^18.3.1`) – JavaScript library for building user interfaces  
+- **React DOM** (`^18.3.1`) – Provides DOM-specific methods for React  
+- **React Helmet** (`^6.1.0`) – For managing the document head in React applications  
+- **React Tooltip** (`^5.28.0`) – Custom tooltips for React components  
+- **SweetAlert2** (`^11.14.5`) – Alerts and modals library for modern web apps  
+
+### **Development Tools**
+- **ESLint** (`^9.15.0`) – Linter for ensuring code quality and standards  
+- **ESLint Plugins**:
+  - **React** (`^7.37.2`) – React-specific linting rules  
+  - **React Hooks** (`^5.0.0`) – Linting for React hooks  
+  - **React Refresh** (`^0.4.14`) – Linting for React Refresh  
+- **Vite** (`^6.0.1`) – Next-generation build tool that focuses on speed  
+- **Tailwind CSS** (`^3.4.15`) – Utility-first CSS framework  
+- **DaisyUI** (`^4.12.14`) – Component library built on top of Tailwind  
+- **PostCSS** (`^8.4.49`) – CSS tool for transforming styles with plugins  
+- **Autoprefixer** (`^10.4.20`) – Automatically adds vendor prefixes to CSS  
+- **React Router DOM** (`^7.0.2`) – Declarative routing for React applications  
+
+
 ## React Concepts Used in ProGear Sports
 
 **Component-Based Architecture:** The entire project is structured with reusable, modular components such as Navbar,ProductCard, and Footer. This modular approach makes it easy to manage, extend, and maintain the codebase as the project grows.<br>
